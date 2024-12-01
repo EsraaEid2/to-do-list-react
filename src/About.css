@@ -1,0 +1,23 @@
+.about-container {
+  background: #1A1A40;
+  color: #fff;
+  padding: 2rem;
+  margin: 3rem auto;
+  width: 100%;
+  max-width: 800px;
+  border-radius: 8px;
+  text-align: center;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.about-container h1 {
+  font-size: 2rem;
+  margin-bottom: 1rem;
+  color: #8758ff;
+}
+
+.about-container p {
+  font-size: 1rem;
+  line-height: 1.6;
+  margin-bottom: 1rem;
+}
